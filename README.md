@@ -21,7 +21,6 @@
 <address> <a href="https://hyuna99323.github.io/portfolio/">portfolio ver.1</a> </address> <br />
 <address> <a href="https://hyuna99323.github.io/ediya_project/">EDIYA Project</a> </address> <br />
 <address> <a href="https://hyuna99323.github.io/ohou_project/">오늘의집(ohou) project</a> </address> <br />
-<address> <a href="https://hyuna99323.github.io/interactive_learning/">INTERACTIVE 페이지 제작 learning</a> </address> <br />
 
 
 ### 🖥 Operating System
