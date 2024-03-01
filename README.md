@@ -17,10 +17,9 @@
   
 
 ### 🧾 My Portfoilo
-<address> <a href="https://magical-gumption-a57829.netlify.app/html/portfolio2.html">portfolio ver.2</a> </address> <br />
-<address> <a href="https://gregarious-conkies-0e9ccd.netlify.app/html/portfolio_ver2.html">portfolio ver.1</a> </address> <br />
+<address> <a href="https://hyunaportfolio.netlify.app">portfolio</a> </address> <br />
 <address> <a href="https://ornate-sorbet-7af1cf.netlify.app/html/01_ediya_main.html">EDIYA Project</a> </address> <br />
-<address> <a href="https://dashing-elf-ee36a3.netlify.app/html/01_prototype_1280_main.html">오늘의집(ohou) project</a> </address> <br />
+<address> <a href="https://deliverykiki.netlify.app">마녀배달부키키 introduce page</a> </address> <br />
 
 
 ### 🖥 Operating System
